@@ -18,7 +18,7 @@
 | **`03_Support_presentation.pdf`** | Support de présentation (12 slides, ≤ 15 min) : contexte, fonctionnalités, choix techniques. |
 | `03_Support_presentation.pptx` | Même présentation, **version PowerPoint éditable**. |
 | | |
-| **`LIEN_PUBLIC_Backlog.md`** | Emplacement du lien public Notion + procédure de publication. | 
+| **`LIEN_PUBLIC_Backlog.md`** | Emplacement du lien public Notion . | 
 
 
 ---
